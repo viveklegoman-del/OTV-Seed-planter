@@ -1,6 +1,6 @@
 # OTV Seed Planting Mission
 
-##ALL TECHNICAL INFO IS IN DESIGN BRIEF PDF ATTACHED TO THIS REPO
+**ALL TECHNICAL INFO IS IN DESIGN BRIEF PDF ATTACHED TO THIS REPO**
 
 ## Overview
 **OTV Seed Planter** is an autonomous Omnidirectional Transport Vehicle (OTV) designed to navigate a 4 m $\times$ 2 m arena[cite: 7, 8], avoid obstacles using an ultrasonic sensor[cite: 8, 13], classify soil substrates via a Wi-Fi camera and machine learning[cite: 4, 13], plant seeds[cite: 4], and collect non-plantable substrate samples[cite: 4]. Developed collaboratively by a 7 manned student team, every system was designed and integrated to maximize performance and reliability. 
